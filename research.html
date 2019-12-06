@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="./rad.css" type="text/css" />
+<title>Rad Niazadeh</title>
+</head>
+<body>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+    var pageTracker = _gat._getTracker("UA-92958371-1");
+    pageTracker._trackPageview();
+} catch(err) {}</script>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Rad Niazadeh</div>
+<div class="menu-item"><a href="index.html">About&nbsp;me</a></div>
+<div class="menu-item"><a href="pubs.html">Publications</a></div>
+<div class="menu-item"><a href="research.html" class="current">Highlights</a></div>
+<div class="menu-item"><a href="talks.html">Talks</a></div>
+<div class="menu-item"><a href="http://cs.stanford.edu/~rad/cv-radniazadeh.pdf">CV</a></div>
+</td>
+<td id="layout-content">
+<table class="imgtable"><tr><td>
+<img src="rad13.jpg" alt="alt text" width="300px" height="HEIGHTpx" />&nbsp;</td>
+<td align="left"><h1>Rad Niazadeh (راد نیازاده)</h1>
+<p>Motwani Postdoctoral Researcher,<br />
+<a href="http://www.cs.stanford.edu/">Department of Computer Science</a>,<br />
+<a href="http://www.stanford.edu/">Stanford University</a>,<br />
+Address: Gates 484, 353 Serra Mall, Stanford, CA 94305.<br />
+Email: <a href="mailto:rad@cs.stanford.edu">rad at cs.stanford.edu</a>.</p>
+</td></tr></table>
+<h3>[Machine Learning/Revenue Management] Multi-scale Dynamic Pricing for Cloud Computing</h3>
+<table class="imgtable"><tr><td>
+<img src="cloud.jpg" alt="alt text" width="250px" height="HEIGHTpx" />&nbsp;</td>
+<td align="left"><p>Cloud platforms like AWS or Microsoft Azure have <i>spot markets</i>, i.e., a free market for selling the remaining resources. The price of spot instances can vary with time based on the demand and supply of cloud resources in data centers across the globe. The classic approaches suggest using vanishing-regret online learning algorithms to devise dynamic pricing schemes. An undesired property of these algorithms is scaling of their additive regrets with the maximum demand, which becomes critical in an application domain like spot instances with many high-value outlier users. To address this issue, in collaboration with Microsoft, we propose a new family of adversarial online learning algorithms. In fact, we reduce the dynamic pricing (and its extensions to dynamic multi-buyer auctions) to a purely learning theoretic framework, termed as <i>multi-scale learning</i>, where the reward of each action has its own maximum possible value. By proposing a novel Online Mirror Descent (OMD) algorithm, we achieve a new style of regret bounds where the regret with respect to each action scales with its own maximum value. Therefore, we obtain the first learning-based dynamic pricing with multiplicative approximations (and not only additive regret). We then evaluate their <i>convergence rates</i>, i.e., number of rounds required to obtain <img class="eq" src="eqs/6044899866937513793-130.png" alt="(1-epsilon)" style="vertical-align: -5px" /> fraction of the revenue of the best price in hindsight. Surprisingly, we show our rates are the best one can hope for, as they match the minimum number of i.i.d. offline samples (from an unknown distribution) required to obtain <img class="eq" src="eqs/6044899866937513793-130.png" alt="(1-epsilon)" style="vertical-align: -5px" /> fraction of the optimal revenue (termed as the <i>sample complexity of auctions</i> in the literature). On the theory side, our techniques were later found to be helpful in designing the best algorithm for the famous <img class="eq" src="eqs/9600028874-130.png" alt="K" style="vertical-align: -0px" />-server problem. On the applied side, our proposed dynamic auction guided Microsoft Azure for the next generation of cloud platforms where the users are allowed to bid.</p>
+<p>*See our <a href="https://arxiv.org/abs/1705.09700"><b>JMLR</b></a> paper, and the preliminary conference version at <a href="http://dl.acm.org/citation.cfm?id=3085145"><b>EC 2017</b></a>.</p>
+</td></tr></table>
+<h3>[Mechanism Design] Reducing Bayesian Mechanism Design to Algorithm Design</h3>
+<table class="imgtable"><tr><td>
+<img src="ai.jpg" alt="alt text" width="250px" height="HEIGHTpx" />&nbsp;</td>
+<td align="left"><p>When designing systems for human users, e.g., an online market, a designer's triumph is to achieve incentive compatibility, i.e. although users could misreport their preferences, it is not in any user's best interest to do so. A fundamental question here is then the following: Does running an incentive compatible mechanism require more computational resources than running an algorithm for the same problem? In other words, is there
+a computationally efficient reduction from mechanism design to algorithm design? Such a reduction, if exists, would be an exceedingly powerful tool. System designers could ignore issues of private information and strategic behavior, and instead focus on coming up with algorithms that achieve their objectives in an environment where all information is public. Those algorithms could then be transformed by a general-purpose reduction into mechanisms that work as desired even when users of the system are strategic.</p>
+<p>My research tackled the striking problem of transforming any arbitrary
+non-optimal algorithm, e.g., a heuristic algorithm working well in practice, into an incentive compatible mechanism with negligible loss in welfare. In a joint work with <i>Shaddin Dughmi, Jason Hartline and Bobby Kleinberg</i>, we
+resolve a five-year-old open question in this area: There is a polynomial time reduction from Bayesian incentive compatible mechanism design to Bayesian algorithm design for welfare maximization problems. Unlike prior results, our reduction achieves exact incentive compatibility for problems with multi-dimensional and continuous type spaces. The key novel ingredient in our reduction is generalizing the
+literature on Bernoulli factories in probability theory.<br /></p>
+<p>*See our <a href="https://arxiv.org/abs/1705.09700"><b>STOC 2017</b></a> paper. Check also our invited article in <a href="http://www.sigecom.org/exchanges/volume_16/1/"><b>ACM SIGecom Exchanges</b></a>, and my magazine article in <a href="http://dl.acm.org/citation.cfm?id=3140569.3123736&amp;coll=portal&amp;dl=ACM"><b>XRDS: Crossroads (The ACM Magazine for Students)</b></a> for a survey of the ideas in this paper and the preceding literature.</p>
+</td></tr></table>
+<h3>[Machine Learning/Optimization] Continuous Non-monotone Submoodular Maximization</h3>
+<table class="imgtable"><tr><td>
+<img src="sn.jpg" alt="alt text" width="250px" height="HEIGHTpx" />&nbsp;</td>
+<td align="left"><p>Submodular functions, whether discrete or continuous, appear in every corner of machine learning, finance, and operations research. A continuous submodular
+function is essentially a non-concave function where its second order partial derivatives with respect to every two different coordinates are non-positive. As a use case of such function in revenue management under network effects, consider a retailer who has access to actual
+and promotion trial products. The retailer seeks to find how many trial products to give to each node of a social network of buyers for free, so as to maximize the final revenue. This problem can be reduced to continuous non-monotone submodular maximization over a hypercube. </p>
+<p>In a joint work with <i>Tim Roughgarden and Joshua Wang</i>, we study the above fundamental problem. Our main result is the first multiplicative 2-approximation algorithm for this problem; this approximation factor is the best possible for algorithms that only query the function at polynomially many points. This result extends the classic
+result of Buchbinder et al. [2015] on optimal approximation for submodular set function maximization to general submodular functions on any (continuous) conic lattice. Interestingly, unlike prior work, our key ingredient comes from bringing a game theoretic perspective to this purely algorithmic question. Roughly speaking, to solve this non convex optimization, our algorithm goes over coordinates one-by-one and by solving a stylized related zero-sum game, finds the right value at the current coordinate.<br /></p>
+<p>* See our <a href="https://arxiv.org/abs/1805.09480"><b>NIPS 2018</b></a> paper (accepted for full oral presentation) and the journal version under-review at <a href="https://arxiv.org/abs/1805.09480"><b>JMLR</b></a>.</p>
+</td></tr></table>
+<h3>[Revenue Management] Static Anonymous Pricing for Online Retailing</h3>
+<table class="imgtable"><tr><td>
+<img src="online-ret.png" alt="alt text" width="250px" height="HEIGHTpx" />&nbsp;</td>
+<td align="left"><p>Consider a monopolist seller, e.g., an online retailer like Amazon, who wants to sell one item to a group of buyers. The theory of microeconomics, thanks to the Nobel prize winning work of Myerson [1985],proves a complicated and asymmetric form for the optimal revenue auction in this setting. However, in reality, Amazon runs a simple nondiscriminatory mechanism, i.e. posting a single (termed as anonymous) take-it-or-leave-it price, and it works very well. The mystery of this discrepancy initiates the following question: How well is the revenue of the anonymous pricing versus the optimal auction? Settling the approximation factor for this problem has remained open for the last half decade, since the initiation of the &lsquo;&lsquo;simple vs. optimal" trend in mechanism design. In my work with <i>Jason Hartline</i> and others, we cracked this open problem by comparing the revenue of anonymous pricing to a standard upper bound on optimal revenue known as ex-ante pricing revenue. We prove the worst-case ratio between these two quantities is &lsquo;e&rsquo; and our result is tight. Our work has also important implications in mechanism design
+for agents with multi-dimensional preferences (e.g., for multiple items).</p>
+<p>* See our <a href="https://www.sciencedirect.com/science/article/pii/S089982561830126X"><b>GEB</b></a> paper, and the preliminary conference version at <a href="http://dl.acm.org/citation.cfm?id=2880121"><b>FOCS 2015</b></a>.</p>
+</td></tr></table>
+<h3>[Machine Learning/Big Data] Fast Algorithms for Hierarchical Clustering</h3>
+<table class="imgtable"><tr><td>
+<img src="tree.jpg" alt="alt text" width="250px" height="HEIGHTpx" />&nbsp;</td>
+<td align="left"><p>Hierarchical clustering (HC) is a widely used exploratory data analysis tool, ubiquitous in phylogenetic, finance and social network analysis. This clustering technique represents a given dataset as a binary tree where each leaf represents an individual data point. As a result, it provides richer information at all levels of granularity
+simultaneously, compared to more traditional flat clustering approaches like k-means or k-median. Because of this attractiveness, and also the existence of fast algorithms for this problem in practice, it has been extensively used by practitioners for information retrieval, data mining, or various tasks in machine learning.</p>
+<p>In a series of works with Moses Charikar and Vaggos Chatziafratis, we pursue a novel algorithmic perspective inspired by the recent developments on viewing HC as an optimization problem (e.g., see [Dasgupta, STOC 2016]). On the applied side, we develop a framework for incorporating <i>structural constraints</i>, i.e., a group of restrictions on the final binary tree that are requested by domain experts, into the optimization view. On the algorithmic side, we begin by studying the limitations of the <i>average-linkage</i> algorithm, i.e., the most popular agglomerative clustering used by practitioners. Then, we propose new efficient algorithms based on semidefinite programming with provably better guarantees. More recently , we have started exploring the role of more realistic models of data for hierarchical clustering, and in particular when the data has geometric structures and the similarity weights are represented by Gaussian kernels. Again, by studying the limitations of average-linkage in this setting, we show how to design simple and very fast algorithms for this problem with provable improved approximation guarantees, which would be of interest to both statisticians and biologists who deal with Big data.<br /></p>
+<p>* See our <a href="http://proceedings.mlr.press/v80/chatziafratis18a.html"><b>ICML 2018</b></a> paper, <a href="https://arxiv.org/abs/1808.02227"><b>SODA 2019</b></a> paper and our ongoing work <a href="">[W2]</a>. </p>
+<div id="footer">
+<div id="footer-text">
+Page generated 2019-04-29 11:07:54 EDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>

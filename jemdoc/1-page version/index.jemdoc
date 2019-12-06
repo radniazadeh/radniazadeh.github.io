@@ -1,0 +1,107 @@
+# jemdoc: menu{MENU}{index.html}
+= Rad Niazadeh
+
+~~~
+{}{img_left}{rad6.jpg}{alt text}{300}{HEIGHTpx}{IMGLINKTARGET}
+[http://www.cs.cornell.edu/ Department of Computer Science], Ph.D. Candidate,\n
+Cornell University, Ithaca.\n
+Email: [rad@cs.cornell.edu rad at cs.cornell.edu]
+~~~
+
+== About me
+
+My name is  Rad Niazadeh (راد نیازاده), and I am a fifth year Ph.D. candidate of theoretical computer science at [http://www.cs.cornell.edu/ *Cornell University*].\n I am very thrilled to have Professor [https://www.cs.cornell.edu/~rdk/ *Robert Kleinberg*] as my Ph.D. advisor at Cornell. 
+
+
+Prior to joining Cornell CS department, I received my B.Sc. and M.Sc. degrees in electrical engineering form [http://ee.sharif.ir/ *Sharif University of Technology*] in 2008 and 2010 respectively.\n
+ I have also received the [http://googleresearch.blogspot.com/2016/03/announcing-2016-google-phd-fellows-for.html *Goolge Ph.D. Fellowship*] in market algorithms in 2016, and [https://www.engineering.cornell.edu/admissions/undergraduate/apply/tuition_aid/awards.cfm *Jacobs Scholar Fellowship*] in 2011.\n 
+
+You can download my full /CV/ [http://www.cs.cornell.edu/~rad/cv-rad.pdf *here*] and take a look at my /Google scholar page/ [https://scholar.google.com/citations?user=8sKIuAcAAAAJ&hl=en *here*].
+
+*Note: I am on the market this year.*
+
+== Research Interests
+
+My research interests lie in different areas of theoretical computer science, with a focus on /economics and computation/, i.e. 
+~~~
+- Algorithmic mechanism design and game theory, 
+- Online algorithms and mechanisms,
+- Learning in games and mechanisms,
+- Analysis of social networks and markets,
+~~~
+
+with applications to electronic commerce and social science. I am in general interested in any theory problem at the intersection of learning, optimization and game theory.  
+
+== Research Internships
+~~~
+- [http://research.microsoft.com/en-us/labs/redmond/ Microsoft Research, Redmond], Summer 2016. 
+
+- [http://research.microsoft.com/en-us/labs/newengland/ Microsoft Research, New England], Summer 2015.
+
+- [https://research.yahoo.com/ Yahoo Research Labs, Sunnyvale], Fall 2015.
+~~~
+
+== Working papers
+. */“A Faster Algorithm for Bidder-Optimal Core Points”/*,\n 
+with Jason Hartline, Nicole Immorlica and Brendan Lucier,\n
+ [https://arxiv.org/abs/1610.03564 \[pdf\]] [ \[slides\]].\n\n
+. */“Truth and Regret in Online Scheduling”/*,\n
+with Nikhil Devanur, Shuchi Chawla, and Janardhan Kulkarni,\n
+[https://arxiv.org/abs/1703.00484 \[pdf\]] [ \[slides\]].\n\n
+. */“Online Auctions and Multi-scale Learning”/*,\n
+with Sébastien Bubeck, Nikhil Devanur and Zhiyi Huang.\n\n
+. */“Mechanism Design for Value Maximizers”/*,\n 
+with Chris Wilkens, Ruggiero Cavallo, and Samuel Taggart,\n 
+[http://www.cs.cornell.edu/~rad/vm-EC17.pdf \[pdf\]] [ \[slides\]].\n\n
+
+== Publications
+. */“Bernoulli Factories and Black-Box Reductions in Mechanism Design”/*,\n 
+with Shaddin Dughmi, Jason Hartline and Bobby Kleinberg,\n to appear in /Proc. 49th ACM Symposium on Theory of Computing *(STOC 2017)*/,\n
+[https://arxiv.org/abs/1703.04143 \[pdf\]][ \[slides\]].\n\n
+. */“GSP - The Cinderella of Mechanism Design”/*,\n 
+with Chris Wilkens and Ruggiero Cavallo,\n
+to appear in /Proc. 26th International World Wide Web Conference *(WWW 2017)*/,\n
+ [https://arxiv.org/abs/1701.05946 \[pdf\]] [ \[slides\]].\n\n
+. */“Competitive Equilibria for Non-quasilinear Bidders in Combinatorial Auctions”/*,\n 
+with Chris Wilkens,\n
+in  /Proc. 12th Conference on Web and Internet Economics *(WINE 2016)*/,\n
+[http://arxiv.org/abs/1606.06846 \[pdf\]] [ \[slides\]].\n\n
+. */“Optimal Auctions vs Anonymous Pricing”/*,\n 
+with Saeed Alaei, Jason Hartline, Yang Yuan, and Manolis Pountourakis,\n
+in /Proc. 56th Annual IEEE Symposium on 
+Foundations of Computer Science *(FOCS 2015),*/\n
+also presented at /5th World Congress of the Game Theory Society *(GAMES 2016)*/,\n
+and a journal version will appear in /Games and Economic Behavior *(GEB)*/,\n
+[http://arxiv.org/abs/1507.02615 \[pdf\]] [ \[slides\]].\n\n
+. */“Secretary Problems with Non-Uniform Arrival Order”/*,\n 
+with Thomas Kesselheim and Bobby Kleinberg,\n
+in Proc. /47th ACM Symposium on Theory of Computing *(STOC 2015)*/,\n
+also presented at /1st Highlights of Algorithms *(HALG 2016)*/,\n
+[http://arxiv.org/abs/1502.02155 \[pdf\]] [ \[slides\]].\n\n
+. */“Simple and Near-Optimal Mechanisms For Market Intermediation”/*,\n 
+with Yang Yuan and Bobby Kleinberg,\n
+in /Proc. 10th Conference on Web and Internet Economics *(WINE 2014)*/, \n
+[http://arxiv.org/abs/1409.2597 \[pdf\]] [ \[slides\]].\n\n
+. */“A Unified Approach to Online Allocation Algorithms via Randomized Dual Fitting”/*,\n with Bobby Kleinberg,\n
+Technical Report (course material for CS 6820 at Cornell),\n
+[http://arxiv.org/abs/1308.5444 \[pdf\]] [ \[slides\]].\n\n
+. */“On The Achievability of Cramer-Rao Bound in Noisy Compressed Sensing”/*,
+\n with Massoud Babaie-Zadeh and Christian Jutten,\n
+ *IEEE Transactions on Signal Processing*, Volume 60, Issue 1,\n
+[http://arxiv.org/abs/1006.2513 \[pdf\]] [ \[slides\]].\n\n
+. */“ISI sparse channel estimation based on SL0 and its application in ML sequence-by-sequence equal- ization”/*,\n
+with Massoud Babaie-Zadeh, Sina Hamidi Ghalehjegh and Christian Jutten,\n
+ *Elsevier Journal of Signal Processing*, Volume 92, Issue 8,\n
+ [https://www.researchgate.net/profile/Rad_Niazadeh/publication/255482264_ISI_sparse_channel_estimation_based_on_SLO_and_its_application_in_ML_sequence-by-sequence_equalization/links/0deec5201119c73756000000.pdf \[pdf\]].\n\n
+. */“An Alternating Minimization Algorithm for Sparse Channel Estimation”/*,\n
+with Massoud Babaie-Zadeh and Christian Jutten,\n
+in /Proc. of 9th International Conference on Latent Variable Analysis and Signal Separation *(LVA-ICA 2010)*/, \n 
+[https://hal.archives-ouvertes.fr/hal-00525949/document \[pdf\]].\n\n
+. */“Adaptive and Non-Adaptive ISI Sparse Channel Estimation Based on SL0 and Its Application in ML Sequence-by-Sequence Equalization”/*,\n
+with Masoud Babaie-Zadeh, Sina Hamidi Ghalehjegh and Christian Jutten,\n
+in /Proc. of 9th International Conference on Latent Variable Analysis and Signal Separation *(LVA-ICA 2010)*/,\n
+ [https://hal.archives-ouvertes.fr/file/index/docid/526065/filename/Niazadeh-SparseChannelEstimationEqualization-ICA2010.pdf \[pdf\]].\n\n
+. */“Implementation and Optimization of Wavelet Modulation in Additive Gaussian Channels”/*,\n 
+with Sahar Nassirpour and Mohammad B. Shamsollahi,\n
+in /Proc. 11th International Conference on Advanced Communication Technology *(ICACT 2009)*/,\n
+ [http://arxiv.org/abs/1308.6251 \[pdf\]].­ ­ 

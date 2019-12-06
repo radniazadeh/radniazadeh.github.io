@@ -1,0 +1,62 @@
+# jemdoc: title{Rad Niazadeh}
+# jemdoc: menu{MENU}{talks.html}
+# jemdoc: analytics{UA-92958371-1}
+# jemdoc: nodefaultcss, addcss{rad.css}
+
+~~~
+{}{img_left}{rad13.jpg}{alt text}{300}{HEIGHTpx}
+= Rad Niazadeh (راد نیازاده)
+Motwani Postdoctoral Researcher,\n
+[http://www.cs.stanford.edu/ Department of Computer Science],\n
+[http://www.stanford.edu/ Stanford University],\n
+Address: Gates 484, 353 Serra Mall, Stanford, CA 94305.\n
+Email: [rad@cs.stanford.edu rad at cs.stanford.edu].
+~~~
+
+== 2019
+- /"Optimal Algorithms for Continuous Submodular Maximization"/, *Google Research NYC*, March 2019.
+- /Markets with Data: Challenges and Solutions"/, *University of California Irvine CS*, February 2019.
+- /Markets with Data: Challenges and Solutions"/, *Purdue CS*, February 2019.
+- /Markets with Data: Challenges and Solutions"/, *Purdue ECE and IE*, February 2019.
+- /"Data, Markets, and Structured Online Learning"/, *University of Chicago Booth School of Business*, February 2019.
+- /"Data, Markets, and Structured Online Learning"/, *Purdue Krannert School of Management *, February 2019.
+- /"Markets with Data: Challenges and Solutions"/, *Northwestern CS*, February 2019.
+- /"Algorithms vs. Mechanisms: Bayesian Blackbox Reductions in Mechanism Design"/, *Northwestern Kellogg School of Business (MEDS)*, January 2019.
+- /"Data, Markets, and Structured Online Learning"/, *NYU Stren School of Business*, January 2019.
+- /"Data, Markets, and Structured Online Learning"/, *University of Minnesota ISyE*, January 2019.
+- /"Data, Markets, and Structured Online Learning"/, *University of Michigan's Ross School of Business*, January 2019.
+- /"Data, Markets, and Structured Online Learning"/, *University of Illinois at Chicago IDS*, January 2019.
+==  2018
+- /"Optimal Algorithms for Continuous Submodular Maximization"/, *Georgia Tech ISyE DOS seminar*, November 2018.
+- /"Optimal Algorithms for Continuous Submodular Maximization"/, *MIT EECS ML seminar*, November 2018.
+- /"Optimal Algorithms for Continuous Submodular Maximization"/, *USC CS theory seminar*, November 2018.
+- /"Optimal Algorithms for Continuous Submodular Maximization"/, *Northwestern EECS, 2018 Junior Theorists Workshop*, November 2018
+- /"Optimal Algorithms for Continuous Submodular and DR-Submodular Maximization"/, *Yale YINS theory seminar*, October 2018.
+- /“Multi-scale Online Learning and its Applications to Online Auctions”/, *Stanford TOCA-SV*, January 2018.
+==  2017
+- /“Bayesian Blackbox Reductions and Combinatorial Bernoulli Factories”/, *Stanford Theory Seminar*, September 2017.
+
+- /“Bernoulli Factories and Blackbox Reductions in Mechanism Design”/, *Google Research Labs (NYC)*, July 2017.
+
+- /“Mechanism Design For Complex Environments: Online Auctions and Learning”/, B-exam talk,  *Cornell University*, June 2017. 
+
+- /“Algorithms vs. Mechanisms : Mechanism Design For Complex Environments”/, *University at Buffalo*, March 2017.
+
+- /“Bernoulli Factories and Mechanism Design”/, Theory Seminar at *Cornell University*, Feb 2017. 
+
+==  2016
+- /“Online Leaning in Auctions”/, *Microsoft Research (Redmond)*, Aug 2016.
+
+
+- /“Secretary Problems with Non-Uniform Arrival Order”/, *University of Washington*, July 2016.
+
+- /“Robustness and Approximation Theory in Online Algorithm Design”/, *INFORMS International 2016*, June 2016.
+
+- /“Bernoulli Factories and Mechanism Design”/, *Microsoft Research (Redmond)*, May 2016.
+
+- /“Optimal Auctions vs. Anonymous Pricing”/ , *NYCE 2016: New York Computer Science and Economics Day*, January 2016. 
+
+== 2015
+- /“Robustness of Online Algorithms”/, *Google Research Labs (Mountain-view)*, Nov 2015.
+
+- /“Posted Pricing vs Optimal Auction in Single Item Environment”/, *Microsoft Research (New England)*, May 2015.

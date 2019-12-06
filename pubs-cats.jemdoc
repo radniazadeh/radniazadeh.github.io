@@ -1,0 +1,165 @@
+# jemdoc: title{Rad Niazadeh}
+# jemdoc: menu{MENU}{pubs.html}
+# jemdoc: analytics{UA-92958371-1}
+# jemdoc: nodefaultcss, addcss{rad.css}
+
+~~~
+{}{img_left}{rad13.jpg}{alt text}{300}{HEIGHTpx}
+= Rad Niazadeh (راد نیازاده)
+Motwani Postdoctoral Researcher,\n
+[http://www.cs.stanford.edu/ Department of Computer Science],\n
+[http://www.stanford.edu/ Stanford University],\n
+Address: Gates 484, 353 Serra Mall, Stanford, CA 94305.\n
+Email: [rad@cs.stanford.edu rad at cs.stanford.edu].
+~~~
+
+== [https://cs.stanford.edu/~rad/pubs.html *[Click here to see my publications in chronological order)*]
+
+== Algorithmic Mechanism Design 
+
+- */“Optimal Auctions vs. Anonymous Pricing”/*,\n
+with Saeed Alaei, Jason Hartline, Yang Yuan, and Manolis Pountourakis,\n
+forthcoming in /* Games and Economic Behavior (GEB), 2018*/,\n
+conference version appeared in /Proc. 56th Annual IEEE Symposium on 
+Foundations of Computer Science *(FOCS 2015),*/\n
+also presented at /5th World Congress of the Game Theory Society *(GAMES 2016)*/,\n
+*{{<font color="8c1515",font size="+1">(invited to the GEB special issue for <u>best algorithmic game theory papers</u> from STOC/FOCS/SODA 2014-15)</font>}}*.\n
+[http://arxiv.org/abs/1507.02615 \[arXiv\]] [http://dl.acm.org/citation.cfm?id=2880121 \[link 1\]][https://www.sciencedirect.com/science/article/pii/S089982561830126X \[link 2\]].\n
+- */“Bernoulli Factories and Black-Box Reductions in Mechanism Design”/*,\n 
+with Shaddin Dughmi, Jason Hartline and Bobby Kleinberg,\n in /Proc. 49th ACM Symposium on Theory of Computing *(STOC 2017)*/,\n
+journal version /under-review/ in the */Journal of the ACM (JACM)/*,\n
+also presented at /2017 INFORMS Annual Meeting *(INFORMS 2017)*/,\n
+[https://arxiv.org/abs/1703.04143 \[arXiv\]][http://dl.acm.org/citation.cfm?id=3055492 \[link\]].\n
+- */“Fast Core Pricing for Rich Advertising Auctions”/*,\n 
+with Jason Hartline, Mohammad Reza Khani, Nicole Immorlica, and Brendan Lucier,\n
+/major revision/ from /* Operations Research (OR), 2018*/,\n
+conference version in /Proc. 19th ACM conference on Economics and Computation *(EC 2018)*/,\n
+/invited/ for presentation at /INFORMS Annual Meeting 2018 in Phoenix *(INFORMS 2018)*/,\n
+[https://arxiv.org/pdf/1610.03564.pdf \[arXiv\]][https://dl.acm.org/citation.cfm?id=3219166.3219231 \[link\]].\n
+- */“GSP - The Cinderella of Mechanism Design”/*,\n 
+with Chris Wilkens and Ruggiero Cavallo,\n
+in /Proc. 26th International World Wide Web Conference *(WWW 2017)*/,\n
+ [https://arxiv.org/abs/1701.05946 \[arXiv\]] [http://dl.acm.org/citation.cfm?id=3052687 \[link\]].\n
+- */“Competitive Equilibria for Non-quasilinear Bidders in Combinatorial Auctions”/*,\n 
+with Chris Wilkens,\n
+in /Proc. 12th Conference on Web and Internet Economics *(WINE 2016)*/,\n
+[http://arxiv.org/abs/1606.06846 \[arXiv\]] [https://link.springer.com/chapter/10.1007/978-3-662-54110-4_9 \[link\]].\n
+- */“Simple and Near-Optimal Mechanisms For Market Intermediation”/*,\n 
+with Yang Yuan and Bobby Kleinberg,\n
+in /Proc. 10th Conference on Web and Internet Economics *(WINE 2014)*/, \n
+[http://arxiv.org/abs/1409.2597 \[arXiv\]] [https://link.springer.com/chapter/10.1007/978-3-319-13129-0_31 \[link\]].\n
+- Survey on */“Bayesian Black-Box Reductions in Mechanism Design”/*,\n
+with Shaddin Dughmi, Jason Hartline and Bobby Kleinberg,\n
+in */ACM SIGecom Exchanges/* letters, Vol. 16.1,\n
+[http://www.sigecom.org/exchanges/volume_16/1/ \[link\]]\n
+- */“Algorithms Versus Mechanisms: How to Cope with Strategic Input?”/*,\n
+in */XRDS: Crossroads, The ACM Magazine for Students*/, Vol. 24 Issue 1, Fall 2017,\n
+[http://dl.acm.org/citation.cfm?id=3140569.3123736&coll=portal&dl=ACM \[link\]]\n
+- */“Persuasion and Incentives Through the Lens of Duality”/*,\n 
+/working paper/, with Shaddin Dughmi, Alex Psomas, and Matt Weinberg.\n
+- */“Mechanism Design for Value Maximizers”/*,\n 
+/working paper/, with Chris Wilkens, Ruggiero Cavallo, and Samuel Taggart.\n
+[https://arxiv.org/abs/1607.04362 \[arXiv\]]\n
+
+
+== Machine Learning and Markets 
+- */“Multi-scale Online Learning and its Applications to Online Auctions”/*,\n
+with Sébastien Bubeck, Nikhil Devanur and Zhiyi Huang, \n 
+/accepted/ in the */Journal of Machine Learning Research (JMLR), 2018*/,\n
+conference version in /Proc. 18th ACM conference on Economics and Computation *(EC 2017)*/,\n
+/invited/ for presentation at /INFORMS Annual Meeting 2018 in Phoenix *(INFORMS 2018)*/,\n
+[https://arxiv.org/abs/1705.09700 \[arXiv\]] [http://dl.acm.org/citation.cfm?id=3085145 \[link\]].\n
+- */“Truth and Regret in Online Scheduling”/*,\n 
+with Nikhil Devanur, Shuchi Chawla, and Janardhan Kulkarni,\n in /Proc. 18th ACM conference on Economics and Computation *(EC 2017)*/,\n
+also presented at /2017 INFORMS Annual Meeting *(INFORMS 2017)*/,\n
+[https://arxiv.org/abs/1703.00484 \[arXiv\]] [http://dl.acm.org/citation.cfm?id=3033274.3085119 \[link\]].\n
+
+== Algorithms for Machine Learning and Optimization
+
+- */“Optimal Algorithms for Continuous
+  Non-monotone Submodular and DR-Submodular Maximization”/*,\n 
+with Tim Roughgarden and Joshua Wang,\n
+forthcoming in /Proc. 32nd Conference on Neural Information Processing Systems *(NIPS 2018)*/,\n
+journal version /under-review/ in the */Journal of Machine Learning Research (JMLR)*/,\n 
+to be also presented at /INFORMS Annual Meeting 2018 in Phoenix *(INFORMS 2018)*/,\n
+*{{<font color="8c1515",font size="+1">(selected as top 30 papers for <u>full oral presentation</u> at NIPS, out of 4.8k+ submitted papers)</font>}}*.\n
+[https://arxiv.org/abs/1805.09480 \[arXiv\]]\n
+- */“Hierarchical Clustering with Structural Constraints”/*,\n 
+with Vaggos Chatziafratis and Moses Charikar,\n
+in /Proc. 35th International Conference on Machine Learning *(ICML 2018)*/,\n
+[https://arxiv.org/abs/1805.09476 \[arXiv\]][http://proceedings.mlr.press/v80/chatziafratis18a.html \[link\]]\n
+- */“Hierarchical Clustering better than Average-Linkage”/*,\n 
+with Vaggos Chatziafratis and Moses Charikar,\n
+to appear in /Proc. ACM-SIAM Symposium on Discrete Algorithms *(SODA 2019)*/,\n
+[https://arxiv.org/abs/1808.02227 \[arXiv\]]\n
+- */“Hierarchical Clustering for Euclidean Data”/*,\n 
+with Vaggos Chatziafratis, Moses Charikar and Grigory Yaroslavtsev,\n
+forthcoming in /Proc. 22nd International Conference on Artificial Intelligence and Statistics *(AISTATS 2019)*/,\n
+[https://arxiv.org/abs/1812.10582  \[arXiv\]]\n
+- */“On The Achievability of Cramer-Rao Bound in Noisy Compressed Sensing”/*, \n 
+with Massoud Babaie-Zadeh and Christian Jutten,\n
+ *IEEE Transactions on Signal Processing*, Volume 60, Issue 1,\n
+[http://arxiv.org/abs/1006.2513 \[arXiv\]] [http://ieeexplore.ieee.org/document/6045353/ \[link\]].\n
+- */“Combinatorial Bernoulli Factories”/*,\n 
+/working paper/, with Shaddin Dughmi and Bobby Kleinberg.
+
+== Online Optimization and Algorithms
+
+- */"Prophet Inequalities vs. Approximating Optimum Online"/*,\n
+with Amin Saberi and Ali Shameli,\n
+in  /Proc. 14th Conference on Web and Internet Economics *(WINE 2018)*/.\n
+- */“Secretary Problems with Non-Uniform Arrival Order”/*,\n 
+with Thomas Kesselheim and Bobby Kleinberg,\n
+in Proc. /47th ACM Symposium on Theory of Computing *(STOC 2015)*/,\n
+/invited/ for presentation at */INFORMS International 2016/*,\n
+also presented at /1st Highlights of Algorithms *(HALG 2016)*/,\n
+[http://arxiv.org/abs/1502.02155 \[arXiv\]] [http://dl.acm.org/citation.cfm?id=2746602 \[link\]].\n
+- */“Nearly Optimal Pricing Algorithms for Production Constrained and Laminar Bayesian Selection”/*,\n 
+/working paper/, with Nima Anari, Amin Saberi and Ali Shameli.{{<details style="display:inline"> <summary><font color="022b6d">
+<a style="display:inline"> [abstract]</a>
+</font></summary>
+<font face="verdana" size="2" color="436E8C">
+We study online pricing algorithms for the Bayesian selection problem with production constraints and its generalization to the laminar matroid Bayesian online selection problem. Consider a firm producing (or receiving) multiple copies of different product types over time. The firm can offer the products to arriving buyers, where each buyer is interested in one product type and has a private valuation drawn independently from a possibly different but known distribution.
+Our goal is to find an adaptive pricing for serving the buyers that maximizes the expected social-welfare (or revenue) subject to two constraints. First, at any time the total number of sold items of each type is no more than the number of produced items. Second, the total number of sold items does not exceed the total shipping capacity. This problem is a special case of the well-known matroid Bayesian online selection problem studied in [Kleinberg and Weinberg, 2012], when the underlying matroid is laminar.
+We give the first Polynomial-Time Approximation Scheme (PTAS) for the above problem as well as its generalization to the laminar matroid Bayesian  online selection problem when the depth of the laminar family is bounded by a constant. Our approach is based on rounding the solution of a hierarchy of linear programming relaxations that systematically strengthen the commonly used ex-ante linear programming formulation of these problems and approximate the optimum online solution with any degree of accuracy. Our rounding algorithm respects the relaxed constraints of higher-levels of the laminar tree only in expectation, and exploits the negative dependency of the selection rule of lower-levels to achieve the required concentration that guarantees the feasibility with high probability..</font></details>}}[https://arxiv.org/abs/1807.05477 \[arXiv\]]\n
+- */“Prophet vs. Mortal: Ride-sharing Matching with Stochastic Riders”/*,\n 
+/working paper/, with Amin Saberi.\n
+- */“A Unified Approach to Online Allocation Algorithms via Randomized Dual Fitting”/*,\n
+with Bobby Kleinberg,\n
+Technical Report (course material for CS 6820 at Cornell),\n
+[http://arxiv.org/abs/1308.5444 \[arXiv\]].\n
+
+== Statistical Learning and Data Networks
+- */“ISI sparse channel estimation based on SL0 and its application in ML sequence-by-sequence equalization”/*,\n
+with Massoud Babaie-Zadeh, Sina Hamidi Ghalehjegh and Christian Jutten,\n
+ *Elsevier Journal of Signal Processing*, Volume 92, Issue 8,\n
+ [https://www.researchgate.net/profile/Rad_Niazadeh/publication/255482264_ISI_sparse_channel_estimation_based_on_SLO_and_its_application_in_ML_sequence-by-sequence_equalization/links/0deec5201119c73756000000.pdf \[arXiv\]] [http://dl.acm.org/citation.cfm?id=2161284 \[link\]].\n
+- */“An Alternating Minimization Algorithm for Sparse Channel Estimation”/*,\n
+with Massoud Babaie-Zadeh and Christian Jutten,\n
+in /Proc. of 9th International Conference on Latent Variable Analysis and Signal Separation *(LVA-ICA 2010)*/, \n 
+[https://hal.archives-ouvertes.fr/hal-00525949/document \[arXiv\]] [https://link.springer.com/chapter/10.1007/978-3-642-15995-4_40 \[link\]].\n
+- */“Adaptive and Non-Adaptive ISI Sparse Channel Estimation Based on SL0 and Its Application in ML Sequence-by-Sequence Equalization”/*,\n
+with Masoud Babaie-Zadeh, Sina Hamidi Ghalehjegh and Christian Jutten,\n
+in /Proc. of 9th International Conference on Latent Variable Analysis and Signal Separation *(LVA-ICA 2010)*/,\n
+ [https://hal.archives-ouvertes.fr/file/index/docid/526065/filename/Niazadeh-SparseChannelEstimationEqualization-ICA2010.pdf \[arXiv\]] [https://link.springer.com/chapter/10.1007/978-3-642-15995-4_72 \[link\]].\n
+- */“Implementation and Optimization of Wavelet Modulation in Additive Gaussian Channels”/*,\n 
+with Sahar Nassirpour and Mohammad B. Shamsollahi,\n
+in /Proc. 11th International Conference on Advanced Communication Technology *(ICACT 2009)*/,\n
+ [http://arxiv.org/abs/1308.6251 \[arXiv\]] [http://ieeexplore.ieee.org/document/4809456/ \[link\]].
+
+
+
+== Thesis
+- */"Algorithms Vs. Mechanisms: Mechanism Design for Complex Environments"/*­,\n
+PhD Thesis (under Professor Robert Kleinberg), Cornell University, Summer 2017,\n [https://search.proquest.com/docview/1959362031?pq-origsite=gscholar \[link\]].
+
+
+
+
+
+
+
+
+
+
+

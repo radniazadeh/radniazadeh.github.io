@@ -1,0 +1,203 @@
+# jemdoc: title{Rad Niazadeh}
+# jemdoc: menu{MENU}{pubs.html}
+# jemdoc: analytics{UA-92958371-1}
+# jemdoc: nodefaultcss, addcss{rad.css}
+
+~~~
+{}{img_left}{rad13.jpg}{alt text}{300}{HEIGHTpx}
+= Rad Niazadeh (راد نیازاده)
+Motwani Postdoctoral Researcher,\n
+[http://www.cs.stanford.edu/ Department of Computer Science],\n
+[http://www.stanford.edu/ Stanford University],\n
+Address: Gates 484, 353 Serra Mall, Stanford, CA 94305.\n
+Email: [rad@cs.stanford.edu rad at cs.stanford.edu].
+~~~
+
+== *\[W\]* Work in Progress
+\[W3\] */“No-Regret Stateful Posted Pricing”/*,\n 
+with Yuval Emek, Shay Kutten, Ron Lavi, and Yangguang Shi.\n
+[http://cs.stanford.edu/~rad/DPNW.pdf \[link\]]\n\n
+\[W2\]*/“Ride-Hailing Matching and Pricing with Stochastic Riders”/*,\n 
+with Yiding Feng and Amin Saberi.\n
+[http://cs.stanford.edu/~rad/FNS2.pdf \[link\]]\n\n
+\[W1\] */“Combinatorial Bernoulli Factories”/*,\n 
+with Shaddin Dughmi and Bobby Kleinberg.\n\n
+
+
+== *\[J\]* Journal Papers (Published & Under Review)
+\n
+\[J9\] */“Linear Programming Based Online Policies for Real-time Assortment of Reusable Resources”/*,\n 
+with Yiding Feng and Amin Saberi,\n
+submitted to /* Management Science (MS), 2019*/.\n
+[http://ssrn.com/abstract=3421227 \[SSRN\]][http://cs.stanford.edu/~rad/FNS.pdf \[link\]]\n\n
+\[J8\]*/“Linear Programming Based Near-Optimal Pricing for Laminar Bayesian Online Selection”/*,\n 
+with Nima Anari, Amin Saberi and Ali Shameli,\n
+submitted to */Operations Research (OR), 2019*/,\n
+(preliminary conference version in EC'19).\n
+[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3430156 \[SSRN\]][http://cs.stanford.edu/~rad/ANSS.pdf \[link\]]\n\n
+
+\[J7\] */“Multi-scale Online Learning: Theory and Applications to Online Auctions and Pricing”/*,\n
+with Sébastien Bubeck, Nikhil Devanur and Zhiyi Huang, \n 
+*/Journal of Machine Learning Research (JMLR), 2019*/,\n
+(preliminary conference version in EC'17).\n
+[https://arxiv.org/abs/1705.09700 \[arXiv\]][http://jmlr.org/papers/v20/17-498.html \[link\]]\n\n
+\[J6\] */“Optimal Auctions vs. Anonymous Pricing”/*,\n
+with Saeed Alaei, Jason Hartline, Yang Yuan, and Manolis Pountourakis,\n
+/* Games and Economic Behavior (GEB), 2018*/,\n
+(preliminary conference version in FOCS'15),\n
+*{{<font color="8c1515",font size="+1">(invited as <u>best algorithmic game theory papers</u> from STOC/FOCS/SODA 2014-15)</font>}}*.\n
+[http://arxiv.org/abs/1507.02615 \[arXiv\]][https://www.sciencedirect.com/science/article/pii/S089982561830126X \[link\]]\n\n
+\[J5\] */“Fast Core Pricing for Rich Advertising Auctions”/*,\n 
+with Jason Hartline, Mohammad Reza Khani, Nicole Immorlica, and Brendan Lucier,\n
+/major revision/ from /* Operations Research (OR), 2018*/,\n
+(preliminary conference version in EC'18).\n
+[https://arxiv.org/pdf/1610.03564.pdf \[arXiv\]]\n\n
+\[J4\] */“Optimal Algorithms for Continuous
+  Non-monotone Submodular and DR-Submodular Maximization”/*,\n 
+with Tim Roughgarden and Joshua Wang,\n
+/revise & resubmit/ from the */Journal of Machine Learning Research (JMLR)*/,\n
+(preliminary conference version in NeurIPS'18).\n
+[https://arxiv.org/abs/1805.09480 \[arXiv\]]\n\n
+\[J3\] */“Bernoulli Factories and Black-Box Reductions in Mechanism Design”/*,\n 
+with Shaddin Dughmi, Jason Hartline and Bobby Kleinberg,\n 
+/major revision/ from the */Journal of the ACM (JACM)/*,\n
+(preliminary conference version in STOC'17).\n
+[https://arxiv.org/abs/1703.04143 \[arXiv\]]\n\n
+\[J2\] */“On The Achievability of Cramer-Rao Bound in Noisy Compressed Sensing”/*, \n 
+with Massoud Babaie-Zadeh and Christian Jutten,\n
+ *IEEE Transactions on Signal Processing*, Volume 60, Issue 1,\n
+[http://arxiv.org/abs/1006.2513 \[arXiv\]] [http://ieeexplore.ieee.org/document/6045353/ \[link\]].\n\n
+\[J1\] */“ISI sparse channel estimation based on SL0 and its application in ML sequence-by-sequence equalization”/*,\n
+with Massoud Babaie-Zadeh, Sina Hamidi Ghalehjegh and Christian Jutten,\n
+ *Elsevier Journal of Signal Processing*, Volume 92, Issue 8,\n
+ [https://www.researchgate.net/profile/Rad_Niazadeh/publication/255482264_ISI_sparse_channel_estimation_based_on_SLO_and_its_application_in_ML_sequence-by-sequence_equalization/links/0deec5201119c73756000000.pdf \[arXiv\]] [http://dl.acm.org/citation.cfm?id=2161284 \[link\]].\n\n
+
+
+== *\[C\]* Peer Reviewed Conference Proceedings
+\n
+\[C21\]*/“Persuasion and Incentives Through the Lens of Duality”/*,\n 
+with Shaddin Dughmi, Alex Psomas, and Matt Weinberg,\n
+to appear in /Proc. The 15th Conference on Web and Internet Economics *(WINE 2019)*/,\n
+[http://cs.stanford.edu/~rad/ELKNS.pdf \[link\]]\n\n
+\[C20\] */“Nearly Optimal Pricing Algorithms for Production Constrained and Laminar Bayesian Selection”/*,\n 
+with Nima Anari, Amin Saberi and Ali Shameli,\n
+in /Proc. 20th ACM conference on Economics and Computation *(EC 2019)*/,\n
+[https://arxiv.org/abs/1807.05477 \[arXiv\]]\n\n
+\[C19\] */“Hierarchical Clustering for Euclidean Data”/*,\n 
+with Vaggos Chatziafratis, Moses Charikar and Grigory Yaroslavtsev,\n
+in /Proc. 22nd International Conference on Artificial Intelligence and Statistics *(AISTATS 2019)*/,\n
+[https://arxiv.org/abs/1812.10582  \[arXiv\]]\n\n
+\[C18\] */“Hierarchical Clustering better than Average-Linkage”/*,\n 
+with Vaggos Chatziafratis and Moses Charikar,\n
+in /Proc. ACM-SIAM Symposium on Discrete Algorithms *(SODA 2019)*/,\n
+[https://arxiv.org/abs/1808.02227 \[arXiv\]]\n\n
+\[C17\] */“Optimal Algorithms for Continuous
+  Non-monotone Submodular and DR-Submodular Maximization”/*,\n 
+with Tim Roughgarden and Joshua Wang,\n
+in /Proc. 32nd Conference on Neural Information Processing Systems *(NeurIPS 2018)*/ \n *{{<font color="8c1515",font size="+1">(selected as top 30 papers for <u>full oral presentation</u> at NIPS, out of 4.8k+ submitted papers)</font>}}*,\n
+to be also presented at /INFORMS Annual Meeting 2018 in Phoenix *(INFORMS 2018)*/,\n
+[https://arxiv.org/abs/1805.09480 \[arXiv\]]\n\n
+\[C16\] */“Hierarchical Clustering with Structural Constraints”/*,\n 
+with Vaggos Chatziafratis and Moses Charikar,\n
+in /Proc. 35th International Conference on Machine Learning *(ICML 2018)*/,\n
+[https://arxiv.org/abs/1805.09476 \[arXiv\]][http://proceedings.mlr.press/v80/chatziafratis18a.html \[link\]].\n\n
+\[C15\] */“Fast Core Pricing for Rich Advertising Auctions”/*,\n 
+with Jason Hartline, Mohammad Reza Khani, Nicole Immorlica, and Brendan Lucier,\n
+in /Proc. 19th ACM conference on Economics and Computation *(EC 2018)*/,\n
+/invited/ for presentation at /INFORMS Annual Meeting 2018 in Phoenix *(INFORMS 2018)*/,\n
+[https://arxiv.org/pdf/1610.03564.pdf \[arXiv\]][https://dl.acm.org/citation.cfm?id=3219166.3219231 \[link\]].\n\n
+\[C14\] */"Prophet Inequalities vs. Approximating Optimum Online"/*,\n
+with Amin Saberi and Ali Shameli,\n
+in  /Proc. 14th Conference on Web and Internet Economics *(WINE 2018)*/.\n\n
+\[C13\] */“Bernoulli Factories and Black-Box Reductions in Mechanism Design”/*,\n 
+with Shaddin Dughmi, Jason Hartline and Bobby Kleinberg,\n in /Proc. 49th ACM Symposium on Theory of Computing *(STOC 2017)*/,\n
+also presented at /2017 INFORMS Annual Meeting *(INFORMS 2017)*/,\n
+[https://arxiv.org/abs/1703.04143 \[arXiv\]][http://dl.acm.org/citation.cfm?id=3055492 \[link\]].\n\n
+\[C12\] */“Online Auctions and Multi-scale Online Learning”/*,\n
+with Sébastien Bubeck, Nikhil Devanur and Zhiyi Huang, \n in /Proc. 18th ACM conference on Economics and Computation *(EC 2017)*/,\n
+/invited/ for presentation at /INFORMS Annual Meeting 2018 in Phoenix *(INFORMS 2018)*/,\n
+[https://arxiv.org/abs/1705.09700 \[arXiv\]] [http://dl.acm.org/citation.cfm?id=3085145 \[link\]].\n\n
+\[C11\] */“Truth and Regret in Online Scheduling”/*,\n 
+with Nikhil Devanur, Shuchi Chawla, and Janardhan Kulkarni,\n in /Proc. 18th ACM conference on Economics and Computation *(EC 2017)*/,\n
+also presented at /2017 INFORMS Annual Meeting *(INFORMS 2017)*/,\n
+[https://arxiv.org/abs/1703.00484 \[arXiv\]] [http://dl.acm.org/citation.cfm?id=3033274.3085119 \[link\]].\n\n
+\[C10\] */“GSP - The Cinderella of Mechanism Design”/*,\n 
+with Chris Wilkens and Ruggiero Cavallo,\n
+in /Proc. 26th International World Wide Web Conference *(WWW 2017)*/,\n
+ [https://arxiv.org/abs/1701.05946 \[arXiv\]] [http://dl.acm.org/citation.cfm?id=3052687 \[link\]].\n\n
+\[C9\] */“Competitive Equilibria for Non-quasilinear Bidders in Combinatorial Auctions”/*,\n 
+with Chris Wilkens,\n
+in  /Proc. 12th Conference on Web and Internet Economics *(WINE 2016)*/,\n
+[http://arxiv.org/abs/1606.06846 \[arXiv\]] [https://link.springer.com/chapter/10.1007/978-3-662-54110-4_9 \[link\]].\n\n
+\[C8\] */“Optimal Auctions vs. Anonymous Pricing”/*,\n 
+with Saeed Alaei, Jason Hartline, Yang Yuan, and Manolis Pountourakis,\n
+conference version appeared in /Proc. 56th Annual IEEE Symposium on 
+Foundations of Computer Science *(FOCS 2015),*/\n
+also presented at /5th World Congress of the Game Theory Society *(GAMES 2016)*/,\n
+[http://arxiv.org/abs/1507.02615 \[arXiv\]] [http://dl.acm.org/citation.cfm?id=2880121 \[link\]].\n\n
+\[C7\] */“Secretary Problems with Non-Uniform Arrival Order”/*,\n 
+with Thomas Kesselheim and Bobby Kleinberg,\n
+in Proc. /47th ACM Symposium on Theory of Computing *(STOC 2015)*/,\n
+/invited/ for presentation at */INFORMS International 2016/*,\n
+also presented at /1st Highlights of Algorithms *(HALG 2016)*/,\n
+[http://arxiv.org/abs/1502.02155 \[arXiv\]] [http://dl.acm.org/citation.cfm?id=2746602 \[link\]].\n\n
+\[C6\] */“Simple and Near-Optimal Mechanisms For Market Intermediation”/*,\n 
+with Yang Yuan and Bobby Kleinberg,\n
+in /Proc. 10th Conference on Web and Internet Economics *(WINE 2014)*/, \n
+[http://arxiv.org/abs/1409.2597 \[arXiv\]] [https://link.springer.com/chapter/10.1007/978-3-319-13129-0_31 \[link\]].\n\n
+\[C5\] */“A Unified Approach to Online Allocation Algorithms via Randomized Dual Fitting”/*,\n
+with Bobby Kleinberg,\n
+Technical Report (course material for CS 6820 at Cornell),\n
+[http://arxiv.org/abs/1308.5444 \[arXiv\]].\n\n
+\[C4\] */“Mechanism Design for Value Maximizers”/*,\n 
+with Chris Wilkens, Ruggiero Cavallo, and Samuel Taggart,\n
+Technical Report,\n
+[https://arxiv.org/abs/1607.04362 \[arXiv\]].\n\n
+\[C3\] */“An Alternating Minimization Algorithm for Sparse Channel Estimation”/*,\n
+with Massoud Babaie-Zadeh and Christian Jutten,\n
+in /Proc. of 9th International Conference on Latent Variable Analysis and Signal Separation *(LVA-ICA 2010)*/, \n 
+[https://hal.archives-ouvertes.fr/hal-00525949/document \[arXiv\]] [https://link.springer.com/chapter/10.1007/978-3-642-15995-4_40 \[link\]].\n\n
+\[C2\] */“Adaptive and Non-Adaptive ISI Sparse Channel Estimation Based on SL0 and Its Application in ML Sequence-by-Sequence Equalization”/*,\n
+with Masoud Babaie-Zadeh, Sina Hamidi Ghalehjegh and Christian Jutten,\n
+in /Proc. of 9th International Conference on Latent Variable Analysis and Signal Separation *(LVA-ICA 2010)*/,\n
+ [https://hal.archives-ouvertes.fr/file/index/docid/526065/filename/Niazadeh-SparseChannelEstimationEqualization-ICA2010.pdf \[arXiv\]] [https://link.springer.com/chapter/10.1007/978-3-642-15995-4_72 \[link\]].\n\n
+\[C1\] */“Implementation and Optimization of Wavelet Modulation in Additive Gaussian Channels”/*,\n 
+with Sahar Nassirpour and Mohammad B. Shamsollahi,\n
+in /Proc. 11th International Conference on Advanced Communication Technology *(ICACT 2009)*/,\n
+ [http://arxiv.org/abs/1308.6251 \[arXiv\]] [http://ieeexplore.ieee.org/document/4809456/ \[link\]].
+
+
+== *\[S\]* Surveys, Magazines and Theses
+
+\[S3\] a survey on */“Bayesian Black-Box Reductions in Mechanism Design”/*,\n
+with Shaddin Dughmi, Jason Hartline and Bobby Kleinberg,\n
+in */ACM SIGecom Exchanges/* letters, Vol. 16.1,\n{{<details style="display:inline"> <summary><font color="022b6d">
+<a style="display:inline"> [abstract]</a>
+</font></summary>
+<font face="verdana" size="2" color="436E8C">In this letter, we report on our work providing a polynomial time reduction from Bayesian incentive compatible mechanism design to Bayesian algorithm design for welfare maximization problems. Unlike prior results, our reduction achieves exact incentive compatibility for problems with multidimensional and continuous type spaces.</font>
+</details>}}[http://www.sigecom.org/exchanges/volume_16/1/ \[link\]]\n\n
+\[S2\] */“Algorithms Versus Mechanisms: How to Cope with Strategic Input?”/*,\n
+in */XRDS: Crossroads, The ACM Magazine for Students*/, Vol. 24 Issue 1, Fall 2017,\n{{<details style="display:inline"> <summary><font color="022b6d">
+<a style="display:inline"> [abstract]</a>
+</font></summary>
+<font face="verdana" size="2" color="436E8C">Online markets and platforms rely on human user decisions as inputs. This generates the challenge of managing user incentives and misbehaviors as strategic entities. Surprisingly, one can show that designers do not require much additional computational power to overcome this challenge</font>
+</details>}}[http://dl.acm.org/citation.cfm?id=3140569.3123736&coll=portal&dl=ACM \[link\]]\n\n
+\[S1\] */"Algorithms Vs. Mechanisms: Mechanism Design for Complex Environments"/*­,\n
+PhD Thesis (under Professor Robert Kleinberg), Cornell University, Summer 2017,\n [https://search.proquest.com/docview/1959362031?pq-origsite=gscholar \[link\]].
+
+
+== Professional Services
+- Program Committee: 
+-- /ACM Conference on Economics and Computation (EC)/,\n
+-- /The Conference on Web and Internet Economics (WINE)/,\n 
+-- /European Symposium on Algorithms (ESA)/.\n
+- Reviewer: 
+-- CS Conferences: /EC/, /FOCS/, /STOC/, /SODA/, /WINE/, /COLT/, and /WWW/.
+-- Operations Journals:  /Operations Research (OR)/, /Management Science (MS)/, and /Mathematics of Operations Research (Math of OR)/. 
+-- Econ and CS\/EE Journals: /Games and Economic Behavior/, /Transactions on Economics and Computation (TEAC)/, /SIAM Journal on Computing (SICOMP)/, /Journal of the ACM (JACM)/, /IEEE Transactions on Signal Processing/, /IEEE Transactions on Communications/, and /IEEE Transactions on Information Theory/.
+
+
+
+
+
+

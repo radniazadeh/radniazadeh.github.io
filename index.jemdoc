@@ -1,0 +1,94 @@
+# jemdoc: title{Rad Niazadeh}
+# jemdoc: menu{MENU}{index.html}
+# jemdoc: analytics{UA-92958371-1}
+# jemdoc: nodefaultcss, addcss{./rad.css}
+
+
+~~~
+{}{img_left}{rad13.jpg}{alt text}{300}{HEIGHTpx}
+= Rad Niazadeh (راد نیازاده)
+Motwani Postdoctoral Researcher,\n
+[http://www.cs.stanford.edu/ Department of Computer Science],\n
+[http://www.stanford.edu/ Stanford University],\n
+Address: Gates 484, 353 Serra Mall, Stanford, CA 94305.\n
+Email: [rad@cs.stanford.edu rad at cs.stanford.edu].
+~~~
+=== 
+\n
+
+I am currently a postdoc at [http://theory.stanford.edu/main/index.shtml Stanford University, Department of Computer Science] (theory group), where I am fortunate to be primarily mentored by [http://web.stanford.edu/~saberi/ Prof. Amin Saberi], and jointly by [http://theory.stanford.edu/~tim/ Prof. Tim Roughgarden] and [https://profiles.stanford.edu/moses-charikar Prof. Moses Charikar]. Prior to Stanford, I obtained my Ph.D. in Computer Science (minored in Applied Mathematics) from [http://www.cs.cornell.edu/ Cornell University], where I was thrilled to be advised by [https://www.cs.cornell.edu/~rdk/ Prof. Robert Kleinberg]. 
+
+I study the interplay between algorithms, incentives, and learning, with a focus on applications in /revenue management/, /market design/ and /digital economy/. Topics include:\n
+- Algorithmic mechanism design and game theory,
+- Online learning theory and applications,
+- Online, stochastic and non-convex optimization,
+- Algorithmic aspects of machine learning.
+
+Here are the links to my [https://scholar.google.com/citations?user=8sKIuAcAAAAJ&hl=en Google scholar page], my [https://cs.stanford.edu/~rad/cv-radniazadeh.pdf CV] and a [https://cs.stanford.edu/~rad/bio.html short Bio/highlights].\n\n
+
+- *I will be joining [https://www.chicagobooth.edu/ University of Chicago, Booth School of Business,] as Assistant Professor of Operations Management in July 2020!* 
+- *I will be joining [https://ai.google/research/teams/algorithms-optimization/ Google Research NYC] as a visiting researcher/faculty in December 2019!* 
+
+== [http://www.cs.stanford.edu/~rad/pubs.html *\[Click Here for a List of Publications\]*]
+
+
+== What’s new?
+~~~
+- * Sep 2019:* Our paper [ "Persuasion and Incentives Through the Lens of Duality"] is accepted at /WINE'19/!
+- * Aug 2019:* New working paper [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3421227 "Linear Programming Based Online Policies for Real-time Assortment of Reusable Resources"] is out! (will soon be updated)
+- * Aug 2019:* New working paper [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3430156 "Linear Programming Based Near-Optimal Pricing for Laminar Bayesian Online Selection"] is out! (will soon be updated)
+- * Apr 2019:* Our paper [https://arxiv.org/abs/1807.05477 "Nearly Optimal Pricing Algorithms for Production Constrained and Laminar Bayesian Selection"] is accepted at /ACM EC'19/!
+- * Dec 2018:* Our paper [https://arxiv.org/abs/1812.10582 "Hierarchical Clustering for Euclidean Data"] is accepted at /AISTATS'19/!
+- * Nov 2018:* Our paper [https://arxiv.org/abs/1705.09700 "Multi-scale Online Learning and its Applications to Online Auctions"] got accepted in the /Journal of Machine Learning Research (JMLR)!/
+- * Nov 2018:* I won the [https://connect.informs.org/rmp/awards/dissertation-award INFORMS Revenue Management & Pricing Dissertation (Honorable Mention) Award]! 
+
+{{<details> <summary><font color="52b6d">
+<a style="display:inline"> [Click here for more!]</a>
+</font></summary>}}
+
+- * Nov 2018:* I'm invited to give a talk at [https://theory.eecs.northwestern.edu/events/2018-junior-theorists-workshop/ 2018 Junior Theorists Workshop] at Northwestern, Nov 15-16.
+- * Sept 2018:* our paper [https://arxiv.org/abs/1808.02227 \[C17\]] is accepted at /SODA 2019/!
+- * Nov 2018:*  I will be giving the following talks at INFORMS Annual Meeting 2018:
+-- *Dynamic Pricing\/auctions by Multi-scale Online Learning*, TB53: Nov 6, 10:30 AM - 12:00 PM, North Bldg 232A
+-- *Fast Core Pricing for Rich Advertising Auctions*, SA53: Nov 4, 8:00 AM - 9:30 AM, North Bldg 232A
+-- *Continuous Submodular Maximization and Applications*, WC04: Nov 7, 1:30 PM - 3:00 PM, North Bldg 122A
+- * Oct 2018:* I am invited to give a talk at the [https://www2.isye.gatech.edu/dos/ DOS seminar] at Georgia Tech ISyE, Nov 30. 
+- * Oct 2018:* I am invited to give a talk at the [https://calendar.csail.mit.edu/seminar_series/9801 Machine Learning seminar] at MIT, Nov 28. 
+- * Oct 2018:* I am invited to give a talk at the [http://www-bcf.usc.edu/~cstheory/index.php CS theory seminar] at USC, Nov 27. 
+- * Oct 2018:* I gave a talk at the [https://yins.yale.edu/ YINS theory seminar] at Yale , Oct 23.
+- * Sept 2018:* our paper [https://arxiv.org/abs/1805.09480 \[C16\]] is accepted for /oral presentation/ at /NIPS 2018/!
+- * Sept 2018:* our paper [  \[C13\]] is accepted at /WINE 2018/!
+- * Aug 2018:* our paper [http://arxiv.org/abs/1507.02615 \[J7\]] is accepted for publication in /GEB/ (special issue on selected papers from STOC\/FOCS\/SODA)!
+- * Apr 2018:* I'm giving an invited talk at /INFORMS Annual Meeting 2018 (Phoenix)/ on our paper [https://arxiv.org/pdf/1610.03564.pdf \[J1 , C3\]].
+- * May 2018:* I'm giving an invited talk at /INFORMS Annual Meeting 2018 (Phoenix)/ (auction cluster) on our paper [https://arxiv.org/abs/1705.09700 \[J2 , C6\]]. 
+- * May 2018:* our paper [https://arxiv.org/abs/1805.09476 \[C2\]] got accepted to /ICML 2018/!
+- * Apr 2018:* our paper [https://arxiv.org/pdf/1610.03564.pdf \[C3\]] got accepted to /EC 2018/!   
+- *Apr 2018:* I'm excited to organize (jointly with Nima Anari) a reading group on "Modern Algorithmic Toolboxes (Chapter 1: Sampling and Counting)" during the Spring quarter at \Stanford\! [https://nimaanari.com/algorithmic-toolbox-sp18/ \[link\]]
+- *Apr 2018:* I'm giving an invited talk at /TRIPODS Southwest Summer Conference/ on May 22! [https://sites.google.com/math.arizona.edu/tripodsconference/program [\link\]].
+- *Jan 2018:* I'm giving a talk on "Auctions and Multi-scale Online Learning" at third /TOCA-SV meeting at Stanford University/ on January 12, 2018!
+- *Dec 2017:* check my new article "Algorithms Versus Mechanisms: How to Cope with Strategic Input?" that appeared in the Fall'17 volume of the /XRDS: Crossroads, The ACM Magazine for Students/ [http://dl.acm.org/citation.cfm?id=3140569.3123736&coll=portal&dl=ACM \[link\]].
+- *Nov 2017:* check my survey article on black-box reductions in mechanism design, appeared in /ACM SIGecom Exchanges/ letters, Vol. 16.1 [http://www.sigecom.org/exchanges/volume_16/1/ \[link\]].
+- *Oct 2017:* I’m giving three talks at /INFORMS Annual Meeting 2017 (Houston)/ on October 25, 2017!
+- *Sept 2017:* I’m giving a talk on “Bernoulli Factories and Black-Box Reductions in Mechanism Design” at /Stanford CS Theory Seminar/ on October 4, 2017!
+- *Aug 2017:* I’m excited to join Stanford CS Theory Group as a /Motwani Postdoc/ starting in September 2017!
+- *Aug 2017:* I defended my /Ph.D. dissertation/, entitled “Mechanism Design for Complex Environments”, on June 16, 2017!
+- *Aug 2017:* I’m giving an invited talk on “Algorithms vs. Mechanisms for Bayesian Welfare Optimization” at /SUNY Buffalo CSE 50th Anniversary/ on September 29, 2017!
+- *July 2017:* I’m excited to be a long-term visiting scientist at /Simons Institute for the Theory of Computing/ during Fall 2017!
+- *June 2017:* I will visit /Princeton theory group/ (hosted by [https://www.cs.princeton.edu/~smattw/index.html Matt Weinberg]) during July and August, 2017!
+- *June 2017:* I’ll give a talk on “Bernoulli Factories and Black-Box Reductions in Mechanism Design” at /Google Research (NYC)/ on July 18, 2017!
+- *May 2017:* I’ll give a talk on “Black-Box Reductions in Mechanism Design” in /New York Computer Science and Economics Day (NYCE)/ on May 19, 2017! 
+- *May 2017:* our papers “Truth and Regret in Online Scheduling” and “Online Auctions and Multi-scale Learning” got accepted to /EC 2017/! 
+- *Apr 2017:* I’ll give a colloquium talk on “Robustness of Online Algorithms” at /SUNY Buffalo/ on April 20, 2017!   
+- *Feb 2017:* my paper “Bernoulli Factories and Black-Box Reductions in Mechanism Design” got accepted to /STOC 2017/!
+- *Feb 2017:* our work “Truth and Regret in Online Scheduling” will also be presented at /STOC 2017 poster session/!
+- *Feb 2017:* I’ll give a talk on “Algorithms vs. Mechanisms : Mechanism Design For Complex Environments” at /SUNY Buffalo/ on March 30, 2017!
+- *Feb 2017:* my paper “GSP - The Cinderella of Mechanism Design” got accepted to /WWW 2017/! 
+- *Jan 2017:* I’ll give a talk on “Algorithms vs. Mechanisms : Mechanism Design For Complex Environments” at /Cornell University/ on February 7, 2017!
+- *Jan 2017:* our paper “Optimal Auctions vs Anonymous Pricing“ is invited to  /Games and Economic Behavior (GEB): Special Issue for best AGT papers from STOC, FOCS, and SODA 2014-2015/!
+{{</details>}}
+~~~
+
+
+
+
+

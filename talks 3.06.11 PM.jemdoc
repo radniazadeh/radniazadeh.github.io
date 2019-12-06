@@ -1,0 +1,31 @@
+# jemdoc: menu{MENU}{talks.html}
+
+~~~
+{}{img_left}{rad11.jpg}{alt text}{250}{HEIGHTpx}{IMGLINKTARGET}
+== Rad Niazadeh
+[http://www.cs.cornell.edu/ Department of Computer Science], Ph.D.,\n
+Cornell University, Ithaca.\n
+Email: [rad@cs.cornell.edu rad at cs.cornell.edu]
+~~~
+
+== Selected Invited Talks
+- /“Mechanism Design For Complex Environments: Online Auctions and Learning”/, B-exam talk,  *Cornell University*, June 2017. 
+
+- /“Algorithms vs. Mechanisms : Mechanism Design For Complex Environments”/, *University at Buffalo*, March 2017.
+
+- /“Bernoulli Factories and Mechanism Design”/, Theory Seminar at *Cornell University*, Feb 2017. 
+
+- /“Online Leaning in Auctions”/, *Microsoft Research (Redmond)*, Aug 2016.
+
+
+- /“Secretary Problems with Non-Uniform Arrival Order”/, *University of Washington*, July 2016.
+
+- /“Robustness and Approximation Theory in Online Algorithm Design”/, *INFORMS International 2016*, June 2016.
+
+- /“Bernoulli Factories and Mechanism Design”/, *Microsoft Research (Redmond)*, May 2016.
+
+- /“Optimal Auctions vs. Anonymous Pricing”/ , *NYCE 2016: New York Computer Science and Economics Day*, January 2016. 
+
+- /“Robustness of Online Algorithms”/, *Google Research Labs (Mountain-view)*, Nov 2015.
+
+- /“Posted Pricing vs Optimal Auction in Single Item Environment”/, *Microsoft Research (New England)*, May 2015.
